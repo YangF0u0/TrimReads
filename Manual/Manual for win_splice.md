@@ -10,7 +10,7 @@
 
 ## DESCRIPTION
 
-​	win_splice is a function used for splicing the sequence from Second Generation Sequencing. It adapt the window-by-window way to score every base and decide whether to save it. Users can set some arguments involved, such as the threshold of quality(Q), the trimming depth(s), the step length per window(w).
+​	win_splice is a function used for splicing the sequence from Second Generation Sequencing. It adapts the window-by-window way to score every base and decide whether to save it. Users can set some arguments involved, such as the threshold of quality(Q), the trimming depth(s), the step length per window(w).
 
 ## OPTIONS
 
