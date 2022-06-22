@@ -1,0 +1,10 @@
+@SRR390728.1 1 length=67
+The bases below standard (which have been cut): NO.69 NO.70 NO.71 NO.72 NO.73 
+@SRR390728.2 2 length=66
+The bases below standard (which have been cut): NO.30 NO.32 NO.33 NO.35 NO.36 
+@SRR390728.3 3 length=54
+The bases below standard (which have been cut): NO.1 NO.13 NO.14 NO.17 NO.19 NO.21 NO.25 NO.27 NO.28 NO.30 NO.32 NO.33 NO.34 NO.35 NO.64 NO.70 NO.72 NO.73 
+@SRR390728.4 4 length=54
+The bases below standard (which have been cut): NO.8 NO.19 NO.20 NO.21 NO.22 NO.24 NO.25 NO.30 NO.31 NO.32 NO.33 NO.35 NO.36 NO.41 NO.51 NO.66 NO.70 NO.71 NO.73 
+@SRR390728.6 6 length=67
+The bases below standard (which have been cut): NO.32 NO.38 NO.53 NO.64 NO.73 
