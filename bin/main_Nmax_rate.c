@@ -1,3 +1,6 @@
+/*by Ying Liang
+    for non-ATGC cutting in rate*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
