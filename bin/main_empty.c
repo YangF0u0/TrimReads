@@ -1,3 +1,6 @@
+/*by Ying Liang
+    for flitering short seqs*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
