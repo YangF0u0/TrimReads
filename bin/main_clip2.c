@@ -1,3 +1,6 @@
+/*by Ying Liang
+    for cutting ends*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
